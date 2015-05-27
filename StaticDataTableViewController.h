@@ -12,7 +12,6 @@
 
 @property (nonatomic, assign) BOOL hideSectionsWithHiddenRows;
 
-
 @property (nonatomic, assign) UITableViewRowAnimation insertTableViewRowAnimation;
 
 @property (nonatomic, assign) UITableViewRowAnimation deleteTableViewRowAnimation;
